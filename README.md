@@ -20,9 +20,9 @@ Notebook dapat langsung dibaca melalui GitHub tanpa perlu menjalankannya.
    - Extension Python
    - Extension Jupiter
 2. Buka terminal di VS Code lalu jalankan:
-   [pip install pandas numpy matplotlib seaborn scikit-learn xgboost]
-3. Buka folder repository di VS Code
-4. Klik file: [Notebook_HEYKA](Notebook_Asuransi_Lengkap.ipynb)
-5. Running setiap sel kode 
+   *pip install pandas numpy matplotlib seaborn scikit-learn xgboost*
+3. Download file berikut: [Notebook_HEYKA](Notebook_Asuransi_Lengkap.ipynb)
+4. Klik open file pada VS Code. Pilih file yang sudah didownload 
+6. Klik "Run" dan "Start Debuging"
    
     
