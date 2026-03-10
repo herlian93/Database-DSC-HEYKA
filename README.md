@@ -6,3 +6,7 @@ Notebook dapat langsung dibaca melalui GitHub tanpa perlu menjalankannya.
    - Kode Python
    - Output Hasil Analisis
    - Grafik dan Visualisasi
+# Cara Menjalankan Notebook di Google Collab
+1. Buka website [Google.Collab](https://colab.research.google.com)
+2. Pilih menu upload notebook
+3. Upload file berikut: 
